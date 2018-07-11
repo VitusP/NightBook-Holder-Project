@@ -1,3 +1,5 @@
+//Last Edited 7/11/2018 by Vitus Putra
+
 #include <Servo.h>
 
 int LED_Blue = 11;
